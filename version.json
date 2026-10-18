@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "versionCode": 101,
+  "version": "1.0.2",
+  "versionCode": 102,
   "downloadUrl": "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
   "sha256": "4C9CA24731BFD17A40F995EF1F8563A32FB8CC084F62EB35F23D09367D4B6605",
-  "releaseNotes": "Axolis Scanner v1.0.1 - Sıfır Dosya Güvencesi ve Resmi Discord Yetki Mimarisi",
+  "releaseNotes": "Coklu Yetkili ve SS Rol Destegi Eklendi",
   "isMandatory": false,
   "fileSizeBytes": 173030666
 }
