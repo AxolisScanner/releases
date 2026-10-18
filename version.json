@@ -1,9 +1,10 @@
 {
-    "sha256":  "7DE1A34650F7216A21C2B0052906260882F61EE9727FAAF36EC7AF63DC9ADFC2",
-    "version":  "1.0.2",
-    "releaseNotes":  "â€¢ Discord botuna birden fazla yetkili rolÃ¼ ekleme desteÄŸi getirildi (virgÃ¼lle ayÄ±rabilirsiniz).\nâ€¢ Tek tÄ±kla otomatik gÃ¼ncelleme altyapÄ±sÄ± aktifleÅŸtirildi.\nâ€¢ MenÃ¼lerdeki tÃ¼m yazÄ± ve simge bozukluklarÄ± tamamen giderildi.",
-    "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "versionCode":  102,
-    "fileSizeBytes":  173038858,
-    "isMandatory":  false
+  "version": "1.0.3",
+  "versionCode": 103,
+  "downloadUrl": "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
+  "sha256": "648AFB4E2236DDC4B3AD8C9327F60A3EF0642244A7C243DC3B5A40A2DF190810",
+  "releaseNotes": "â€¢ Discord /scan komutu kolaylaÅŸtÄ±rÄ±ldÄ± (anahtarsÄ±z doÄŸrudan /scan oyuncu:Ä°sim Ã§alÄ±ÅŸÄ±r).
+â€¢ Bilet oluÅŸturma hatasÄ± ve kod uyuÅŸmazlÄ±ÄŸÄ± tamamen giderildi.",
+  "isMandatory": false,
+  "fileSizeBytes": 173038858
 }
