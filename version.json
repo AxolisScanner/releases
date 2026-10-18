@@ -1,10 +1,11 @@
 {
-  "version": "1.0.3",
-  "versionCode": 103,
+  "version": "1.0.4",
+  "versionCode": 105,
   "downloadUrl": "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-  "sha256": "648AFB4E2236DDC4B3AD8C9327F60A3EF0642244A7C243DC3B5A40A2DF190810",
-  "releaseNotes": "â€¢ Discord /scan komutu kolaylaÅŸtÄ±rÄ±ldÄ± (anahtarsÄ±z doÄŸrudan /scan oyuncu:Ä°sim Ã§alÄ±ÅŸÄ±r).
-â€¢ Bilet oluÅŸturma hatasÄ± ve kod uyuÅŸmazlÄ±ÄŸÄ± tamamen giderildi.",
+  "sha256": "CCE2D5CB534C637FB72BB3879CB593A81969BA00A422658D19E2179F8E93C457",
+  "releaseNotes": "â€¢ Tarama ve log geÃ§miÅŸi kalÄ±cÄ± gÃ¼venli depolamaya taÅŸÄ±ndÄ±, yeniden baÅŸlatmada veri kaybÄ± engellendi.
+â€¢ Discord /scan ve Scanner.exe bilet karmaÅŸasÄ± kaldÄ±rÄ±ldÄ±, doÄŸrudan kod ile tarama saÄŸlandÄ±.
+â€¢ ArayÃ¼zdeki simge ve karakter hatalarÄ± dÃ¼zeltildi.",
   "isMandatory": false,
   "fileSizeBytes": 173038858
 }
