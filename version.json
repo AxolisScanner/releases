@@ -1,5 +1,5 @@
 {
-    "sha256":  "9D77AA1B516EDBB0C2D3E881317842F49197080239A91A269400E9851777714E",
+    "sha256":  "7DE1A34650F7216A21C2B0052906260882F61EE9727FAAF36EC7AF63DC9ADFC2",
     "version":  "1.0.2",
     "releaseNotes":  "â€¢ Discord botuna birden fazla yetkili rolÃ¼ ekleme desteÄŸi getirildi (virgÃ¼lle ayÄ±rabilirsiniz).\nâ€¢ Tek tÄ±kla otomatik gÃ¼ncelleme altyapÄ±sÄ± aktifleÅŸtirildi.\nâ€¢ MenÃ¼lerdeki tÃ¼m yazÄ± ve simge bozukluklarÄ± tamamen giderildi.",
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
