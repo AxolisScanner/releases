@@ -1,11 +1,9 @@
 {
-  "version": "1.0.4",
-  "versionCode": 105,
-  "downloadUrl": "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-  "sha256": "CCE2D5CB534C637FB72BB3879CB593A81969BA00A422658D19E2179F8E93C457",
-  "releaseNotes": "â€¢ Tarama ve log geÃ§miÅŸi kalÄ±cÄ± gÃ¼venli depolamaya taÅŸÄ±ndÄ±, yeniden baÅŸlatmada veri kaybÄ± engellendi.
-â€¢ Discord /scan ve Scanner.exe bilet karmaÅŸasÄ± kaldÄ±rÄ±ldÄ±, doÄŸrudan kod ile tarama saÄŸlandÄ±.
-â€¢ ArayÃ¼zdeki simge ve karakter hatalarÄ± dÃ¼zeltildi.",
-  "isMandatory": false,
-  "fileSizeBytes": 173038858
+    "version":  "1.0.5",
+    "versionCode":  106,
+    "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
+    "sha256":  "39D119D1C0EA91DC89B55EECC8B516F6DDD0FA4A8D6424F81E59CD1AAB0D0654",
+    "releaseNotes":  "â­ BÃœYÃœK KARARLILIK VE SÄ°STEM GÃœNCELLEMESÄ° (v1.0.5)\nâ€¢ KalÄ±cÄ± Veri GÃ¼venliÄŸi: Tarama geÃ§miÅŸi ve tÃ¼m adli loglar kalÄ±cÄ± depolamaya taÅŸÄ±ndÄ±.\nâ€¢ SadeleÅŸtirilmiÅŸ Discord ve TarayÄ±cÄ±: Bilet karmaÅŸasÄ± kaldÄ±rÄ±ldÄ±, tek kodla hÄ±zlÄ± taramaya geÃ§ildi.\nâ€¢ Otomatik GÃ¼ncelleyici GÃ¼Ã§lendirildi: JSON ve CDN senkronizasyon hatalarÄ± tamamen Ã§Ã¶zÃ¼ldÃ¼.\nâ€¢ ArayÃ¼z Ä°yileÅŸtirmeleri: SÃ¼rÃ¼m butonundaki bozuk simgeler ve karakter kaymalarÄ± temizlendi.",
+    "isMandatory":  false,
+    "fileSizeBytes":  173042954
 }
