@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "versionCode": 102,
-  "downloadUrl": "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-  "sha256": "4C9CA24731BFD17A40F995EF1F8563A32FB8CC084F62EB35F23D09367D4B6605",
-  "releaseNotes": "Coklu Yetkili ve SS Rol Destegi Eklendi",
-  "isMandatory": false,
-  "fileSizeBytes": 173030666
+    "sha256":  "18B209A545B99DBC9820C9BBB5F1F4D02310A0242310384AB0DAA4BACECB5DDD",
+    "version":  "1.0.2",
+    "releaseNotes":  "Coklu Yetkili ve SS Rol Destegi Eklendi",
+    "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
+    "versionCode":  102,
+    "fileSizeBytes":  173034762,
+    "isMandatory":  false
 }
