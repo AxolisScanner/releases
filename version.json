@@ -1,9 +1,9 @@
 {
     "version":  "1.1.0",
-    "versionCode":  108,
+    "versionCode":  109,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "B1442523C2510E077CC7E9971C10A7E0F2FE6E509FC98364D5263E4513C971D7",
+    "sha256":  "34813BDF4FF05F8BF56A1F90E38F3A4396B9487E3E89002FD4D9E3A3998BB1ED",
     "releaseNotes":  "",
     "isMandatory":  false,
-    "fileSizeBytes":  173047050
+    "fileSizeBytes":  173055242
 }
