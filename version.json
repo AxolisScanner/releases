@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.5",
-    "versionCode":  107,
+    "version":  "1.1.0",
+    "versionCode":  108,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "30F660EA98FCA28EBEBBAD13F67510B8799EBFC14EF215F1E00910BAFB6F934B",
-    "releaseNotes":  "â­ BÃœYÃœK KARARLILIK VE SÄ°STEM GÃœNCELLEMESÄ° (v1.0.5)\nâ€¢ KalÄ±cÄ± Veri GÃ¼venliÄŸi: Tarama geÃ§miÅŸi ve tÃ¼m adli loglar kalÄ±cÄ± depolamaya taÅŸÄ±ndÄ±.\nâ€¢ SadeleÅŸtirilmiÅŸ Discord ve TarayÄ±cÄ±: Bilet karmaÅŸasÄ± kaldÄ±rÄ±ldÄ±, tek kodla hÄ±zlÄ± taramaya geÃ§ildi.\nâ€¢ Otomatik GÃ¼ncelleyici GÃ¼Ã§lendirildi: JSON ve CDN senkronizasyon hatalarÄ± tamamen Ã§Ã¶zÃ¼ldÃ¼.\nâ€¢ ArayÃ¼z Ä°yileÅŸtirmeleri: SÃ¼rÃ¼m butonundaki bozuk simgeler ve karakter kaymalarÄ± temizlendi.",
+    "sha256":  "B1442523C2510E077CC7E9971C10A7E0F2FE6E509FC98364D5263E4513C971D7",
+    "releaseNotes":  "",
     "isMandatory":  false,
-    "fileSizeBytes":  173042954
+    "fileSizeBytes":  173047050
 }
