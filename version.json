@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.0",
-    "versionCode":  109,
+    "version":  "1.1.1",
+    "versionCode":  110,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "34813BDF4FF05F8BF56A1F90E38F3A4396B9487E3E89002FD4D9E3A3998BB1ED",
-    "releaseNotes":  "",
+    "sha256":  "F3E0C5D8F99544643D17E3A06EAE3D1C2CEFFFF80202850E08A974DD9DC256AE",
+    "releaseNotes":  "Obsidian Mor Tema ve Gelismis Adli Telemetri Paneli",
     "isMandatory":  false,
-    "fileSizeBytes":  173055242
+    "fileSizeBytes":  173067530
 }
