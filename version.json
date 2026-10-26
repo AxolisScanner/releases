@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.1",
-    "versionCode":  110,
+    "version":  "1.1.2",
+    "versionCode":  111,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "F3E0C5D8F99544643D17E3A06EAE3D1C2CEFFFF80202850E08A974DD9DC256AE",
-    "releaseNotes":  "Obsidian Mor Tema ve Gelismis Adli Telemetri Paneli",
+    "sha256":  "DC89EFB92E4C7CC88702E3B75E06E54A434BD5C8DE0393F205CF84DD32369774",
+    "releaseNotes":  "Echo-Felox UI Revamp, Forensic Cleaner Detection, and Java Memory Refinements",
     "isMandatory":  false,
-    "fileSizeBytes":  173067530
+    "fileSizeBytes":  173079818
 }
