@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.2",
-    "versionCode":  111,
+    "version":  "1.1.3",
+    "versionCode":  112,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "DC89EFB92E4C7CC88702E3B75E06E54A434BD5C8DE0393F205CF84DD32369774",
-    "releaseNotes":  "Echo-Felox UI Revamp, Forensic Cleaner Detection, and Java Memory Refinements",
+    "sha256":  "6FE4C016D314D7F6BCA03CAB3C72137389E8074174008D89D217725484B67FFC",
+    "releaseNotes":  "FeloxAC Obsidian Dark UI, Zero White Scrollbars, Dynamic On-Click Telemetry Banner",
     "isMandatory":  false,
-    "fileSizeBytes":  173079818
+    "fileSizeBytes":  173083914
 }
