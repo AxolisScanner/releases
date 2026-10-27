@@ -1,9 +1,9 @@
 {
-    "version":  "1.1.4",
-    "versionCode":  116,
+    "version":  "1.1.5",
+    "versionCode":  117,
     "downloadUrl":  "https://github.com/AxolisScanner/releases/releases/download/v1.0.0/AxolisScanner.exe",
-    "sha256":  "A86FD71ED0001064A64CBDC75E1B21B001D1FF853935BE56A5302ADF66AFF012",
-    "releaseNotes":  "Ocean-Grade Forensic Engine: Orchard Client \u0026 Modern Ghost Client Detection",
+    "sha256":  "62C70FDD75D6D4422140D4D97B62C5ABD60D9726139E0D89AB28D726BAE9DADE",
+    "releaseNotes":  "Axolis Scanner: Dedicated Forensic Results \u0026 Special Statistics Inspection Dashboard",
     "isMandatory":  false,
     "fileSizeBytes":  173088010
 }
